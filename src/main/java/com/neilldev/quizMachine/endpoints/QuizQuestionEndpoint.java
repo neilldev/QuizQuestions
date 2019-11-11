@@ -21,7 +21,7 @@ import javax.ws.rs.core.UriInfo;
  * REST endpoint for quiz questions. This supports random quiz questions, a list of 
  * 10 questions, a random question, and a question count.
  *
- * @author DJ Spiess
+ * @author neillDev
  */
 @Path("/questions")
 final public class QuizQuestionEndpoint {
